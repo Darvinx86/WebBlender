@@ -1,2 +1,2 @@
 <?php
-echo "This is just a testtest";
+echo "Alles löschen";
